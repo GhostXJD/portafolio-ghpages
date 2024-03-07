@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState } from 'react';
 import { FaBars, FaTimes } from "react-icons/fa";
 
 const NavBar = () => {
@@ -24,7 +24,7 @@ const NavBar = () => {
         <>
             <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed">
                 <div>
-                    <h className="text-5xl ml-2">Portafolio personal</h>
+                    <h className="text-5xl ml-2">Portafolio</h>
                 </div>
 
                 <ul className="hidden md:flex">

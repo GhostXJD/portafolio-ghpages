@@ -33,16 +33,6 @@ function RedesLinks() {
       ),
       href: "mailto:javierjditurra@gmail.com",
     },
-    {
-      id: 4,
-      child: (
-        <>
-          Resume <BsFillPersonLinesFill size={30} />
-        </>
-      ),
-      href: "/resume.pdf",
-      download: true
-    },
   ];
 
   return (

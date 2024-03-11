@@ -9,14 +9,14 @@ function SobreMi() {
         </div>
 
         <p className='text-xl mt-10 text-justify'>
-          ¡Hola! Para hablar un poco de mi, desde que era solo un niño la tecnología siempre me llamo la atencion,
-          Recuerdo que siempre queria saber como funcionaba, se creaban programas o páginas web. A medida que crecía, mi interés por la tecnología fue en aumento.
-          Estuve un tiempo en jóvenes programadores, donde descubrí que la programación es lo que mas me gusta hacer.
+          ¡Hola soy Javier Díaz! Para hablar un poco de mí, desde que era solo un niño la tecnología siempre me llamo la atención,
+          Recuerdo que siempre quería saber cómo funcionaba, se creaban programas o páginas web. A medida que crecía, mi interés por la tecnología fue en aumento.
+          Estuve un tiempo en jóvenes programadores, donde descubrí que la programación es lo que más me gusta hacer.
         </p>
         <p className='text-xl mt-10 text-justify'>
           Lo que realmente me motiva en el campo de la informática es la oportunidad de enfrentar desafíos creativos y encontrar soluciones innovadoras.
           Me encanta pensar fuera de la caja y desarrollar programas que no solo
-          funcionen, sino que también sean eficaces. Creo firmemente que la combinación de creatividad y habilidades técnicas es lo que impulsa él progreso de este campo
+          funcionen, sino que también sean eficaces. Creo firmemente que la combinación de creatividad y habilidades técnicas es lo que impulsa el progreso de este campo
           en constante evolución.
         </p>
 

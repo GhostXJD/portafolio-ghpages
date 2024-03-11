@@ -12,7 +12,9 @@ function Home() {
             Ingeniero en Informática
           </h2>
           <p className="text-gray-400 py-4 max-w-md text-justify">
-            Titulado en Ingeniería en Informática en DuocUC. Sólidas habilidades para trabajar en equipo o en solitario. Con poseo una perspectiva única, capacidad analítica, aprendizaje rapido y alta tolerancia para trabajar bajo presión. Orientado a la creación de soluciones creativas, intuitivas y eficientes para el usuario.
+            Titulado en Ingeniería en Informática en Duoc UC. Sólidas habilidades para trabajar en equipo e individualmente. Con poseo una perspectiva única,
+            capacidad analítica, aprendizaje rápido y alta tolerancia para trabajar bajo presión. Orientado a la creación de soluciones creativas, intuitivas y 
+            eficientes para el usuario.
           </p>
           <div>
             <button className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-purple-700 to-purple-950 cursor-pointer">

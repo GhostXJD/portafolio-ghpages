@@ -108,7 +108,7 @@ function Conocimientos() {
             <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white">
                 <div>
                     <p className="text-4xl font-bold border-b-4 border-purple-900 p-2 inline">Conocimientos</p>
-                    <p className="py-6">Estas son las tecnologías que conozco.</p>
+                    <p className="py-6">Estas son las tecnologías que manejo.</p>
                 </div>
                 <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-8 text-center py-8 px-12 sm:px-0">
                     {tecnologias.map(({ id, src, title, style }) => (

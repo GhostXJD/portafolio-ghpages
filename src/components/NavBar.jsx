@@ -25,6 +25,10 @@ const NavBar = () => {
         },
     ]
 
+    const closeMenu = () => {
+        setNav(false);
+    };
+
     return (
         <>
             <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed z-10">
@@ -55,7 +59,7 @@ const NavBar = () => {
                             <li
                                 key={id}
                                 className="px-4 cursor-pointer capitalize py-6 text-4xl">
-                                {link}
+                                <Link to={link} smooth duration={500} onClick={closeMenu}>{link}</Link>
                             </li>
                         ))}
                     </ul>

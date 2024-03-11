@@ -38,7 +38,6 @@ function Experiencia() {
                         </div>
                     ))}
                 </div>
-
             </div>
         </div>
     )

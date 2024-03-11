@@ -52,19 +52,19 @@ function Conocimientos() {
             id: 6,
             src: mongo,
             title: 'Mongo DB',
-            style: 'shadow-yellow-500'
+            style: 'shadow-green-500'
         },
         {
             id: 7,
             src: node,
             title: 'Node JS',
-            style: 'shadow-yellow-500'
+            style: 'shadow-green-400'
         },
         {
             id: 8,
             src: material,
             title: 'Material UI',
-            style: 'shadow-yellow-500'
+            style: 'shadow-blue-700'
         },
         {
             id: 9,
@@ -88,19 +88,19 @@ function Conocimientos() {
             id: 12,
             src: python,
             title: 'Python',
-            style: 'shadow-yellow-500'
+            style: 'shadow-yellow-300'
         },
         {
             id: 13,
             src: bootstrap,
             title: 'Bootstrap',
-            style: 'shadow-yellow-500'
+            style: 'shadow-purple-500'
         },
         {
             id: 14,
             src: java,
             title: 'Java',
-            style: 'shadow-yellow-500'
+            style: 'shadow-orange-400'
         },
     ]
     return (
@@ -108,15 +108,18 @@ function Conocimientos() {
             <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full h-full text-white">
                 <div>
                     <p className="text-4xl font-bold border-b-4 border-gray-500 p-2 inline">Conocimientos</p>
-                    <p className="py-6">Estas son las tecnologias que conozco</p>
+
                 </div>
                 <div className="w-full grid grid-cols-2 sm:grid-cols-3 gap-8 text-center py-8 px-12 sm:px-0">
                     {tecnologias.map(({ id, src, title, style }) => (
                         <div key={id} className={`shadow-md hover:scale-105 duration-500 py-2 rounded-lg ${style}`}>
-                            <img src={src} alt="" className="w-20 mx-auto" />
+                            <img src={src} alt="" className="w-16 mx-auto" />
                             <p className="mt-4">{title}</p>
                         </div>
                     ))}
+                </div>
+                <div>
+                    <p className="py-6">Estas son las tecnologias que conozco</p>
                 </div>
             </div>
         </div>

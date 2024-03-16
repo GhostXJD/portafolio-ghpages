@@ -13,6 +13,7 @@ import tailwind from '../assets/Conocimientos/Tailwind.png';
 import python from '../assets/Conocimientos/Python.png';
 import bootstrap from '../assets/Conocimientos/bootstrap.png';
 import java from '../assets/Conocimientos/java.png';
+import php from '../assets/Conocimientos/PHP-logo.svg.png';
 
 
 function Conocimientos() {
@@ -101,6 +102,12 @@ function Conocimientos() {
             src: java,
             title: 'Java',
             style: 'shadow-orange-400'
+        },
+        {
+            id: 15,
+            src: php,
+            title: 'PHP',
+            style: 'shadow-indigo-500'
         },
     ]
     return (

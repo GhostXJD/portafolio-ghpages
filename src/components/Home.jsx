@@ -12,7 +12,7 @@ function Home() {
             Ingeniero en Informática
           </h2>
           <p className="text-gray-400 py-4 max-w-md text-justify">
-            Titulado en Ingeniería en Informática en Duoc UC. Sólidas habilidades para trabajar en equipo e individualmente. Con poseo una perspectiva única,
+            Titulado en Ingeniería en Informática en Duoc UC. Sólidas habilidades para trabajar en equipo e individualmente. Poseo una perspectiva única,
             capacidad analítica, aprendizaje rápido y alta tolerancia para trabajar bajo presión. Orientado a la creación de soluciones creativas, intuitivas y 
             eficientes para el usuario.
           </p>

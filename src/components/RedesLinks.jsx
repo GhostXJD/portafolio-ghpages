@@ -40,7 +40,7 @@ function RedesLinks() {
           CV <GrDocumentText size={30} />
         </>
       ),
-      href: "https://drive.google.com/file/d/1js0i0WL8_7F73DUISY_uDH1AFJ6sJe5E/view?usp=sharing",
+      href: "https://drive.google.com/file/d/11_FtAnikqnuYfVd9FDQ6Chn4o9tIMLjD/view?usp=sharing",
     },
   ];
 

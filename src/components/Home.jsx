@@ -12,7 +12,7 @@ function Home() {
             Ingeniero en Informática
           </h2>
           <p className="text-gray-400 py-4 max-w-md text-justify">
-          Pienso que cuento con la capacidad para colaborar tanto en equipos como de manera independiente. Estoy comprometido a crear soluciones innovadoras, intuitivas y eficaces para los usuarios. Siempre estoy en búsqueda de nuevas tecnologías y oportunidades para continuar mi aprendizaje. Creo que soy curioso al ver cuando sale una nueva tecnología y me gusta saber todo o casi todo de ella.
+          Cuento con la capacidad para colaborar tanto en equipos como de manera independiente. Estoy comprometido a crear soluciones innovadoras, intuitivas y eficaces para los usuarios. Siempre estoy en búsqueda de nuevas tecnologías y oportunidades para continuar mi aprendizaje. Creo que soy curioso al ver cuando sale una nueva tecnología y me gusta saber todo o casi todo de ella.
           </p>
           <div>
             <button className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-purple-700 to-purple-950 cursor-pointer">
